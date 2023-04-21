@@ -5,7 +5,7 @@
   "homepage": "https://GoitStudentsWorks.github.io/js_73_ShevchukOleh",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-group-14/"
+    "build": "parcel build src/*.html --public-url /js_73_ShevchukOleh/"
   },
   "repository": {
     "type": "git",

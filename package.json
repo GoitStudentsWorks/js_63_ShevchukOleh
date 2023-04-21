@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ShevchukOleh.github.io/project-group-14",
+  "homepage": "https://GoitStudentsWorks.github.io/js_73_ShevchukOleh",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /project-group-14/"
